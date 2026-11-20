@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/decodingai-magazine/.github/blob/main/media/banner.jpg?raw=true"></p>
 
 <div align="center">
-  <h1>Welcome to the Decoding AI Magazine</h1>
+  <h1>Welcome to the Decoding AI</h1>
   <h3>Real-world guides taking you from PoC purgatory to shipping AI products that work.</h3>
 </div>
 
